@@ -10,7 +10,6 @@ body {
     box-sizing: border-box;
     width: 100%;
     min-height: 100vh;
-    
     font-family: 'Poppins', sans-serif;
     background: url(../images/bg-mobile.svg) no-repeat;
     background-position: top center;
